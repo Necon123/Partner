@@ -180,7 +180,7 @@ client.on("message", msg => {
 
 client.on('ready' , () => {
 
-var join = client.channels.get("id voice")/// ئاید ڤۆیس
+var join = client.channels.get("790129228766904370")/// ئاید ڤۆیس
 
 if (join) join.join()
 
@@ -198,11 +198,11 @@ if (message.content.startsWith("https://discord.gg/")) {
 
  
 
-  message.author.send(``)/// لینکە سیرڤەرە خۆت
+  message.author.send(`https://discord.gg/bH2Sq5HkrP `)/// لینکە سیرڤەرە خۆت
 
  
 
-  client.channels.get("id channel").send(
+  client.channels.get("792464894615486544").send(
 
 `> Nerdra la layan <@${message.author.id}> 
 
@@ -214,4 +214,4 @@ ${message.content}`)
 
         })
 
-client.login("");
+client.login("ODUwNDY4MTQ1NDM3MjEyNjcy.YLqKLg.cur_8QHF6_sikq38uEhNTQji2Lk");
