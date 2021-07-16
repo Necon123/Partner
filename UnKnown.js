@@ -214,4 +214,4 @@ ${message.content}`)
 
         })
 
-client.login("ODM1NTg4NjM2MTc4NjQ1MDIy.YIRojw.w0lBcSSgwmxS5h2tta0ZOLTTWJU");
+client.login("");
